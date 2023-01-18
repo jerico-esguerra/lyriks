@@ -7,7 +7,7 @@ const initialState = {
   isPlaying: false,
   activeSong: {},
   genreListId: '',
-};
+}; 
 
 const playerSlice = createSlice({
   name: 'player',
