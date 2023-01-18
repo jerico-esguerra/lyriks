@@ -6,7 +6,11 @@ import Loader from './Loader';
 import PlayPause from './PlayPause';
 import SongCard from './SongCard';
 import ArtistCard from './ArtistCard';
-import MusicPlayer from './MusicPlayer'
+import MusicPlayer from './MusicPlayer';
+import DetailsHeader from './DetailsHeader';
+import RelatedSongs from './RelatedSongs';
+import SongBar from './SongBar';
+
 
 export {
   TopPlay,
@@ -17,5 +21,8 @@ export {
   PlayPause,
   SongCard,
   ArtistCard,
-  MusicPlayer
+  MusicPlayer,
+  DetailsHeader,
+  RelatedSongs,
+  SongBar
 };
