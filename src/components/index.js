@@ -5,6 +5,7 @@ import Error from './Error';
 import Loader from './Loader';
 import PlayPause from './PlayPause';
 import SongCard from './SongCard';
+import ArtistCard from './ArtistCard';
 
 export {
   TopPlay,
@@ -13,5 +14,6 @@ export {
   Error,
   Loader,
   PlayPause,
-  SongCard
+  SongCard,
+  ArtistCard
 };
